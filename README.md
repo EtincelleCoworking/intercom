@@ -1,0 +1,1 @@
+Sketch for opening a generic intercom with basic Konami codes :)
